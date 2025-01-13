@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\craig\\Documents\\Projects\\SDKC2\\SDKC2\\SDKC2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4A3826D9-29F7-4376-B58B-8893EEC8F9C2}|SDKC2.csproj|c:\\users\\craig\\documents\\projects\\sdkc2\\sdkc2\\sdkc2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A3826D9-29F7-4376-B58B-8893EEC8F9C2}|SDKC2.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A3826D9-29F7-4376-B58B-8893EEC8F9C2}|SDKC2.csproj|c:\\users\\craig\\documents\\projects\\sdkc2\\sdkc2\\sdkc2\\sdkc2.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{4A3826D9-29F7-4376-B58B-8893EEC8F9C2}|SDKC2.csproj|solutionrelative:sdkc2.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A3826D9-29F7-4376-B58B-8893EEC8F9C2}|SDKC2.csproj|c:\\users\\craig\\documents\\projects\\sdkc2\\sdkc2\\sdkc2\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A3826D9-29F7-4376-B58B-8893EEC8F9C2}|SDKC2.csproj|solutionrelative:product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A3826D9-29F7-4376-B58B-8893EEC8F9C2}|SDKC2.csproj|c:\\users\\craig\\documents\\projects\\sdkc2\\sdkc2\\sdkc2\\beverage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A3826D9-29F7-4376-B58B-8893EEC8F9C2}|SDKC2.csproj|solutionrelative:beverage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Beverage.cs",
+              "DocumentMoniker": "C:\\Users\\craig\\Documents\\Projects\\SDKC2\\SDKC2\\SDKC2\\Beverage.cs",
+              "RelativeDocumentMoniker": "Beverage.cs",
+              "ToolTip": "C:\\Users\\craig\\Documents\\Projects\\SDKC2\\SDKC2\\SDKC2\\Beverage.cs",
+              "RelativeToolTip": "Beverage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T20:28:20.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\craig\\Documents\\Projects\\SDKC2\\SDKC2\\SDKC2\\Product.cs",
+              "RelativeDocumentMoniker": "Product.cs",
+              "ToolTip": "C:\\Users\\craig\\Documents\\Projects\\SDKC2\\SDKC2\\SDKC2\\Product.cs",
+              "RelativeToolTip": "Product.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T20:08:51.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SDKC2",
+              "DocumentMoniker": "C:\\Users\\craig\\Documents\\Projects\\SDKC2\\SDKC2\\SDKC2\\SDKC2.csproj",
+              "RelativeDocumentMoniker": "SDKC2.csproj",
+              "ToolTip": "C:\\Users\\craig\\Documents\\Projects\\SDKC2\\SDKC2\\SDKC2\\SDKC2.csproj",
+              "RelativeToolTip": "SDKC2.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-10T20:06:42.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\craig\\Documents\\Projects\\SDKC2\\SDKC2\\SDKC2\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\craig\\Documents\\Projects\\SDKC2\\SDKC2\\SDKC2\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAYwBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T19:26:55.403Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

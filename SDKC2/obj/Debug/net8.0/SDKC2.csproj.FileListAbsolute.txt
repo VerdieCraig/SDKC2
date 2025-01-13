@@ -1,0 +1,5 @@
+C:\Users\craig\Documents\Projects\SDKC2\SDKC2\SDKC2\obj\Debug\net8.0\SDKC2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\craig\Documents\Projects\SDKC2\SDKC2\SDKC2\obj\Debug\net8.0\SDKC2.AssemblyInfoInputs.cache
+C:\Users\craig\Documents\Projects\SDKC2\SDKC2\SDKC2\obj\Debug\net8.0\SDKC2.AssemblyInfo.cs
+C:\Users\craig\Documents\Projects\SDKC2\SDKC2\SDKC2\obj\Debug\net8.0\SDKC2.csproj.CoreCompileInputs.cache
+C:\Users\craig\Documents\Projects\SDKC2\SDKC2\SDKC2\obj\Debug\net8.0\SDKC2.sourcelink.json
